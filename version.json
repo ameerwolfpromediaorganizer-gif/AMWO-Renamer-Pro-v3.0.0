@@ -1,11 +1,5 @@
 {
   "version": "v3.0.0",
-  "download_url": "https://payhip.com/YOUR_PRODUCT_LINK",
+  "download_url": "https://github.com/ameerwolfpromediaorganizer-gif/amwo-renamer/releases/download/v3.0.0/AMWO_Renamer_Pro_Plus_v3_Setup.exe",
   "changelog": "الإصدار الأول"
 }
-```
-
-3. تأكد إن الـ repo **Public**
-4. الـ URL اللي في الكود يطابق تماماً:
-```
-   https://raw.githubusercontent.com/ameerwolfpromediaorganizer-gif/amwo-renamer/main/version.json
