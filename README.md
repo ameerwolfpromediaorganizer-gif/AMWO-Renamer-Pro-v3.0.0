@@ -1,4 +1,4 @@
-# 🐺 AMWO Renamer
+# 🐺 AMWO Renamer Pro+ v3.0.0
 
 > Smart renaming tool for TV series & subtitle files — Press & Done
 
